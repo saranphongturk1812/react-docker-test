@@ -14,3 +14,5 @@ services:
         - NODE_ENV=${NODE_ENV}
 networks:
   default:
+volumes:
+    driver: local
