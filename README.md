@@ -1,3 +1,5 @@
-DOCKER-REACT
-# install react app
-# docker-compose
+#DOCKER-REACT
+<br>
+install react app
+<br>
+docker-compose
